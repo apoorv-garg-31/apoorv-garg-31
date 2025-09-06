@@ -34,11 +34,11 @@ A truly marvelous AI agent that reads your complex construction PDFs—hundreds 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, JavaScript (Next.js), SQL
-- **AI/ML:** LangGraph, prompt engineering, model training, document intelligence
+- **Languages:** Python, JavaScript (Next.js), SQL, 
+- **AI/ML:** LangGraph, prompt engineering, RAG.
 - **Construction Tech:** Unifier, Primavera, Aconex
-- **Data Engineering:** Workflow design, data integration, ETL pipelines
-
+- **Data Engineering:** Workflow design, Airflow, data integration, ETL pipelines
+- **Cloud:** GCP
 ---
 
 ## 🎸 Hobbies
