@@ -16,19 +16,7 @@ With hands-on experience in coding, workflow automation, and bringing together p
 
 ---
 
-## 🏆 Featured Projects
 
-### [Starfish AI](https://github.com/cpma-group/starfish-ai-v2)
-A robust text-to-SQL engine built from scratch, delivering highly accurate answers and a custom training model that empowers power users to further increase accuracy.
-
-### Audit Agent
-A truly marvelous AI agent that reads your complex construction PDFs—hundreds of invoices, timesheets, payapps—and generates in-depth audit analyses.
-
-### More Projects
-- [ConstructionDocs AI Monorepo](https://github.com/cpma-group/constructiondocs-ai-monorepo-app)
-- [Consertus Labs v2](https://github.com/cpma-group/consertus-labs-v2)
-- [CPMA Scheduler](https://github.com/cpma-group/cpma-scheduler)
-- [Construction Docs Parser Service](https://github.com/cpma-group/construction-docs-parser-svc)
 
 ---
 
